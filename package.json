@@ -1,0 +1,11 @@
+{
+    "name":"BotCensor",
+    "version":"0.0.1",
+    "description": "THIS IS A BOT CENCOR PROGRAM WRITTEN BY A BOT",
+    "main": "botCensorText",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+        
+}
